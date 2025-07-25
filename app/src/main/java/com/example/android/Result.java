@@ -47,6 +47,5 @@ public class Result extends AppCompatActivity {
                 finish();
             }
         });
-
     }
 }
